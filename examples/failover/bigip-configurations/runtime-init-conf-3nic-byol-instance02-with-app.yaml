@@ -308,7 +308,7 @@ pre_onboard_enabled:
     type: inline
     commands:
       - /usr/bin/setdb provision.extramb 1000 || exit 0
-      - /usr/bin/setdb provision.restjavad.extramb 1384 || /usr/bin/setdb restjavad.useextramb
+      - /usr/bin/setdb provision.restjavad.extramb 1384
         true || exit 0
 runtime_parameters:
   - name: VAULT_URL

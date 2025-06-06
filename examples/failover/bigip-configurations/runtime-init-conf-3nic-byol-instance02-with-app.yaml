@@ -8,7 +8,7 @@ extension_packages:
       extensionHash: 9f30ed6e271d89f9a80ec4e4f189427071f023e45a4a01efc95a340f56350cbc
     - extensionType: as3
       extensionVersion: 3.54.0
-      extensionHash: b46077bb3234cd27a84dcd17f1e5b77c6a76a2a25c7ab4d1f755d498f4f1e787
+      extensionHash: 32d83dd95c999f6abd7600a57def98509e17099f2b8950b0eacf91d8b51cca14
     - extensionType: cf
       extensionVersion: 2.1.3
       extensionHash: a699004f03b5f7b8e918921b8c3a65b1441202466c9371659abbe2e8bab025d6
